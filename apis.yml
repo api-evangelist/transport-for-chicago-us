@@ -1,4 +1,16 @@
 aid: transport-for-chicago-us
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/transport-for-chicago-us.png
 name: Transport for Chicago, US
 description: "Chicago Transit Authority (CTA)"
 url: http://www.transitchicago.com/developers/
