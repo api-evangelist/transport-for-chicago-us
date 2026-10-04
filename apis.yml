@@ -39,7 +39,6 @@ apis:
   - name: Transport for Chicago, US
     description: "Chicago Transit Authority (CTA)"
     humanURL: http://www.transitchicago.com/developers/
-    baseURL: http://www.transitchicago.com/developers/
     tags:
       - Transportation
     properties:
